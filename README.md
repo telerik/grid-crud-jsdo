@@ -1,4 +1,14 @@
-# GridJSDO
+# Consume Progress JSDO in a Kendo UI for Angular Grid within an Angular Application
+
+This sample application features a Kendo UI for Angular Grid with CRUD and server-side data operations that consumes a Progress JSDO.
+
+## Documentation
+
+[`Kendo UI for Angular Documentation`](https://www.telerik.com/kendo-angular-ui/components/)
+
+[`Progress Data Objects Guide and Reference`](https://documentation.progress.com/output/pdo/index.html#page/pdo/jsdo-overview.html)
+
+[`Using the JSDO and DataSource components in an Angular web app`](https://github.com/progress/JSDO/wiki/Using-the-JSDO-and-DataSource-components-in-an-Angular-web-app)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
