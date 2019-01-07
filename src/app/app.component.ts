@@ -124,7 +124,6 @@ export class AppComponent {
   public addHandler(e: any): void {
     const { sender } = e;
     this.editDataModel = this.dataService.createModel();
-    console.log(this.editDataModel)
     this.formGroup = createFormGroup({});
     this.closeEditor(sender);
     sender.addRow(this.formGroup);
