@@ -1,3 +1,5 @@
+##  This repository is no longer updated. To access the current version, refer to the [`kendo-angular` repository](https://github.com/telerik/kendo-angular/tree/master/examples/projects/grid-jsdo).
+
 # Consume Progress JSDO in a Kendo UI for Angular Grid within an Angular Application
 
 This sample application features a Kendo UI for Angular Grid with CRUD and server-side data operations that consumes a Progress JSDO.
